@@ -3801,3 +3801,775 @@ Alors que je me promène avec mon bébé : « Hé, Madame !! Jette-le, je vais t
 « AHOUUUUUUUUU, AHOU AHOUUUUUUUUU [...] AHOUUUUUUUUU, AHOU AHOUUUUUUUUU... »
 « T'aurais pas envie de te jeter sauvagement sur moi et de me violer par hasard ? »
 « Oh mad’moiselle oh le string oh ! »
+“Je ne vous conseille pas de vous baisser comme ça devant moi, on voit trop bien vos formes.”
+“Je ne suis pas macho mais ça ne me choque pas. Le repassage, c’est pas un travail d’homme.”
+“De toute façon t’es trop petite, tu peux pas brancarder.”
+“Mademoiselle, je peux vous demander un renseignement ou vous êtes là juste pour faire joli?”
+“Boh vous aimez ça en vrai, quand les clients vous reluquent de haut en bas. C’est normal de matter, on peut pas s’en empêcher nous les hommes, c’est instinctif.”
+“C’est ta trousse à maquillage?”
+“T’es jolie aujourd’hui, je te baiserais bien!”
+“Les personnes de couleur… les noirs” [on demande les extraits de compte en plus des fiches de paie] “parce qu’on remarque que les fraudeurs sont tous de couleur noire.”
+“Ok je conduis, mais du coup tu me feras bien une p’tite pipe en chemin?”
+“Votre tenue est provocante pour des jeunes ados bourrés d’hormones.”
+“Ça me donne envie de t’envoyer faire des photocopies.”
+“Ah tu veux pas d’enfants? Mon Dieu mais ta vie va être triste, les femmes c’est fait pour ça!”
+“C’est vrai qu’aujourd’hui les femmes conduisent.”
+“Qui êtes-vous? Vous ne ressemblez pas un assureur. Trop jeune et trop jolie. Envoyez-moi plutôt votre patron.“
+“Elle, il va falloir qu’on fasse une tournante pour qu’elle arrête de venir.”
+“Et en plus vous êtes jolie!”
+“Mais de toute façon, les filles qui nous visitent, c’est juste pour coucher avec nous.”
+“De toute façon y a pas d’secret: une femme c’est comme un chien, ça se dresse.”
+“Hors de question que ma femme me suce, je la respecte trop pour ça!”
+“Tu vas sous la table, c’est ta place non?”
+“Aaah, elle fait le ménage, ce que les femmes savent le mieux faire. Ah non, et la cuisine aussi!”
+“Moi je ne comprends pas pourquoi les gens assument pas ce qu’ils pensent! Moi par exemple, si j’ai envie de coucher avec Aurélie (moi), je lui dirais en face. Hein Aurélie, tu veux coucher avec moi? Je veux dire, on est pas des gamins, et ça évite les malaises! Après tout je t’ai embauchée pour ça non?“
+“C’est pas parce que tu es jeune et jolie que tu auras plus que quelqu’un d’autre.”
+“Pourquoi tu souris pas? T’es une fille, si tu souris pas tu sers à quoi? T’es censée nous rendre le travail plus agréable.”
+“Tu devrais t’attacher les cheveux, là on dirait une sorcière.”
+“Non mais pour trouver un travail, y a pas que le CV il faut aussi cibler les recherches. Vous voyez, vous, essayez plutôt de poser pour des photos, ça serait plus rentable. Votre voisine par contre…”
+“Bon alors, quand est-ce que vous faites des enfants? Non parce que vous savez, le temps passe vite!”
+“Le marché du travail est compliqué en ce moment. Enfin, surtout pour les hommes. Vous, les femmes, vous pouvez toujours vous prostituer.”
+“En même temps, quand tu élèves seule deux enfants nés de pères différents, faut pas t’étonner d’avoir des problèmes dans la vie.”
+“Tu as une chaise roulante chez toi? Non parce que je suis prêt à te demander en mariage, et ça risque de faire mal.”
+“Mercredi prochain il fera chaud, n’oublie pas de prendre cette sublime robe rouge! :) Je rigoooooooole, doucement haha”
+“Je sais que cela est discriminatoire, mais je ne veux pas embaucher une jeune mère pour ce contrat de 2 ans (remplacement congé parental), je ne voudrais pas avoir à gérer un deuxième congé maternité.”
+“Il faut accepter l’idée de vivre dans une société machiste, et arrêter de s’offusquer pour tout et n’importe quoi.”
+“En fait, on avait le choix entre deux CV à compétences égales, donc on a décidé de prendre la plus jolie!”
+“C’est une coquine, tu peux gratter à sa porte le soir, elle ouvre. C’est une fille facile.”
+“Elle a trop une tête de pute celle-là.”
+“Les femmes ça commence toujours par dire non, mais ça finit par dire oui.”
+"De toute façon avec vous les meufs c’est toujours pareil, on sait quand vous avez vos règles. Vous avez un gros bouton au milieu de la gueule et vous êtes de mauvaise humeur.”
+“Il te reste combien d’années d’études? 3 ans? Bon dépêche-toi de finir, parce qu’après quelques années de travail, il faudra que tu arrêtes pour t’occuper de tes enfants.”
+“Les nanas je les embauche soit après 40 ans, soit plus tôt si elles ont leur quota de gamins. Parce que quand même, elles font chier avec les arrêts maternité.”
+“Il te fait un beau petit cul ce pantalon.”
+“T’as fait du super boulot, mais je t’engage pas parce que t’es pas un homme.”
+“Roooh, la chienne de garde, on a le droit de rire non?!”
+“Vous êtes une jeune femme, et pourtant vous vous intéressez à la défense et à la sécurité, pourquoi?”
+“Maintenant que tu as eu ta promotion, tu vas faire un gosse?”
+“J’vais te mettre une cartouche, faudra pas venir te plaindre si tu te fais violer.”
+“Heureusement que je n’ai pas des avions de chasse comme ça dans mon équipe, je ne pourrais pas manager en étant objectif...”
+“Vous faites des meubles? C’est marrant ça pour une fille!”
+“Je ne savais pas qu’on avait commandé des strip-teaseuses.”
+“Tu fais très actrice porno avec des lunettes. J’aime bien.”
+“Tu es jeune, c’est trop tôt pour une relation sérieuse avec ton mec, là. Tu voudrais pas t’amuser un peu plutôt?”
+“De toute façon les filles au boulot soit c’est nos meilleures potes, soit c’est nos pires ennemies, soit on couche avec.”
+“Il fait chaud avec la nouvelle recrue là, il fait chaud...”
+“Les ballerines c’est pour les danseuses de l’opéra, mets des talons si tu veux bosser ici.”
+“Les femmes dans la boulangerie-pâtisserie, c’est la mort du métier.”
+“Tiens, vous voilà déjà à quatre pattes!”
+“Tu serais bien gentille de ne pas te reproduire avant quelques années, ça coûterait cher à la boîte! T’es jeune, t’as le temps de toute façon.”
+“Sois douce et tais toi.”
+“Je vous insérerais bien autre chose.”
+“Vous recherchez un stage en tant que vendeuse, ou dans les bureaux?”
+“Tu es jeune et inexpérimentée, tu dois te préserver. Il m’a promis qu’il ne recommencerait plus.”
+“Avec un physique comme le vôtre, vous n’auriez jamais dû faire des études d’ingénieur, mais vous marier avec un homme comme moi. Vous êtes trop jolie pour être crédible.”
+“Foufoune fraîche! Foufoune fraîche!”
+“Tu dois sûrement être trop payée pour vendre des merdes aussi chères, sale putain.”
+“Votre CV et vos stages, tout est parfait, vos résultats, mais il y a un problème. (Ah? Lequel?) Vous êtes une fille!”
+“Moi je te trouve très baisable.”
+“Il faudrait que quelqu’un gère le frigo de l’étage, parce-que c’est le bordel. Je préférerais que ce soit une femme, elles savent bien faire ça.”
+“C’est bien d’avoir des jolies jeunes filles en main d’œuvre pas chère. Ce serait mieux si elles pouvaient mettre des soutiens gorges rembourrés.”
+“Elle aime bien tenir de longs trucs durs dans les mains.”
+“Vous faites très fashion poufiasse habillée comme ça.”
+“Elle est moins bonne que l’autre mais elle a plus de connaissances, tant pis.”
+“On accrochera un plug au mur et on la suspendra dessus.”
+“Tu as l’air d’avoir une grosse chatte.”
+“Elle c’est pas compté en femme parce qu’elle est lesbienne, on peut pas se la taper. Et toi t’es habillée en mec tout le temps, ça compte pas.”
+“Mais comment ça, tu es qualifiée sur Boeing? Tu n’es pas hôtesse de l’air, mais vraiment pilote comme moi?!”
+“On cherche une femme pour ce poste, car il faudra cleaner le bureau de temps en temps, et proposer des cafés aux techniciens.”
+“T’es plutôt vaginale ou clitoridienne?”
+“Bah t’es stagiaire, tu payes pas le repas, mais tu passes sous la table.”
+“Oh ça va, c’était pour rire.”
+“Oh la! T’es en pantalon! Ça ne va pas du tout! Faut remettre tes jupes!”
+“Le viol n’est pas compris comme un accident du travail.”
+“On aurait pas dû inventer la machine à laver, comme ça les femmes nous laisseraient tranquilles, elles seraient encore au lavoir!”
+“Non mais ça va j’ai juste dit que j’avais envie de coucher avec toi, pas que j’étais amoureux.”
+“C’est vous les deux nouvelles? [Au formateur] Bon, la mignonne, tu me la formes en caisse, la moche derrière, en cuisine.”
+“C’est ton mec qui t’a dressée à faire des Tupperware?”
+“On a pas le droit de violer, mais on peut toucher!”
+“T’as mal aux reins? C’est vraiment la douleur des gonzesses qui aiment se faire prendre en levrette.”
+“Tu devrais sucer, il parait que ça fait gonfler les seins!” (Tout en mimant)
+“Quand on dit que les lunettes c’est érotique... c’est vraiment vrai.”
+“On n’est plus au travail, tu n’es plus la stagiaire.”
+“Nous on ouvre les portes, pendant que toi tu ouvres tes jambes.”
+“Pour le poste: c’était soit toi, soit une autre. Mais comme elle était trop bonne, je savais que j’aurais envie de me la faire. Du coup je t’ai embauchée toi, et je me suis fait l’autre.”
+“Tu devrais mettre une jupe et des talons, pour faire venir le client. Prends exemple sur l’ancienne serveuse, elle était plus féminine.”
+“Oui certes, mais si on dit quelque chose, il ne nous aidera plus.”
+“Ca t’embête si j’emmène plutôt Untel?” (“Pourquoi, j’ai le choix?”) “Non. Mais enfin tu comprends, ça fait bien mieux au salon du Bourget d’emmener un jeune homme fringant, qu’une bonne femme. Ça fait plus sérieux, tu ne trouves pas?”
+“Tu fais le mois sans cigarette, mais j’espère que tu fais pas le mois sans pipe!”
+“Je n’embauche que des collaboratrices. Les collaborateurs hommes sont beaucoup plus durs à gérer: ils sont trop sûrs d’eux et ont tendance à demander des augmentations, plus de responsabilités et à vouloir passer associés rapidement.”
+“Bon aujourd’hui j’ai décidé de féminiser les noms des métiers. La secrétaire de rédaction, la rédactrice en chef, le directeur de publication.”
+“T’es vraiment bonne toi .T’es vraiment gaulée... T’as fait combien de gosses déjà?”
+“Et sinon, vous allez nous faire un bébé dans l’année?”
+“Vous lui avez parlé du droit de cuissage du président?”
+“Tu es ouverte, mais pas que d’esprit...”
+“Je suis vraiment désolé d’avoir nommé ce nul à ta place, mais je n’ai pas assumé que tout le monde pense qu’on couchait ensemble.”
+“Huuummm tu as mis ton fameux jean!”
+“C’est le printemps! Je sens que la sève va commencer à monter.”
+“Et vous avez prévu de faire des enfants?”
+“Le décolleté que vous portez aujourd’hui, c’est parce que vous savez que 80% des directeurs de communication en agence sont des hommes et que vous voulez avoir plus de chance?”
+“On t’a pas entendue arriver ce matin, t‘as pas mis tes talons! Parce que d’habitude on est déjà en train de se branler à cette heure-là.“
+“Forcément, quand on est une gamine qui hier encore tétait le sein de sa mère...”
+“Je vous préfère à votre prédécesseur (une autre femme) parce que vous mettez des robes alors qu’elle, en n’en mettait jamais.”
+“Tu fais pas de gosse avant trois ans hein?!”
+“Moi, je n’embauche que des filles, c’est plus facile à manager.”
+“Ah non, ça suffit les pondeuses!”
+“Tu as oublié de mettre un pantalon aujourd’hui?”
+“Tu recommences. Et si tu refais cette faute, la prochaine fois ce sera un petit coup de fouet. Ou de martinet. Ou de cravache.”
+“Pour me remercier, agenouille-toi et je baisserai ma braguette.”
+“Jusqu’à présent vous avez toujours été mignonne, mais maintenant vous commencez à m‘énerver!”
+“C’est dommage que tu connaisses le patron, sinon ça fait longtemps que je t’aurais prise sur le bureau.”
+“Ah mais vous avez pas compris. Arrêtez-moi si je me trompe, mais vous seriez bien la première femme à comprendre.”
+“Oui, on cherche un stagiaire mais on ne prend plus de filles. Y a que des problèmes avec les filles dans les ateliers.”
+“Avec le féminisme, les femmes vont trop loin. Avant on pouvait afficher ce qu’on voulait sur les murs de la boîte (un calendrier porno). La démocratie c’est fini, on sera bientôt tous voilés.”
+“Vous avez une tête de femme qui vient de se faire voler.”
+“C’est vraiment une idée de femmes! [...] Bah oui, une idée qui n’avait aucune chance de fonctionner!”
+“Qu’est-ce que tu fais sur le chantier??”
+“Ouais mais c’est juste parce que t’es une nana, ils n’en voient pas assez.”
+“La déco et le rangement c’est du travail pour les nanas.”
+"Et sinon, ça te dit pas qu’on aille prendre une pause à l’hôtel?”
+“Dommage, je l’aurais bien baisée celle-là!”
+“Une femme ne peut pas se le permettre.”
+“Oh tu t’es mise en robe et maquillée? Voyons, on va te mettre à la vente, ça va attirer plus de clients.”
+“Tu vas mettre quoi comme musique? Un truc à ton image non, un truc de salope?"
+“Avant elle s’habillait bien, elle était féminine. Maintenant elle ne ressemble à rien, on dirait un sac.”
+“Qu’est-ce qu il y a? Toi aussi tu veux la sauter?”
+“Désolé, mais comme tu dois t’en douter il a pris un garçon, il pense qu’il se fera mieux respecter là-bas!”
+“Je préfère prendre une fille pour le service du petit-déjeuner, parce que y’a quand même pas mal de monsieurs, et c’est plus agréable pour eux.”
+“Arrête de bouffer, t’as déjà un gros cul!”
+“Pratique ce bureau pour la nouvelle, on dirait que ça lui sert de soutien-gorge.”
+“Bon les filles, vous allez faire un strip-tease pour attirer plus de clients!”
+“Son CV n’est pas du tout ce qu’on recherche... mais elle est bonne, alors donne-lui un entretien.”
+“Ouai elle faisait du bon taf, mais alors qu’est-ce qu’elle était moche!”
+“Dis, tu préfères les anulingus ou les cunnilingus?”
+“J’aimerais bien savoir qui t’as sucé pour avoir ce poste...”
+“Tes points forts... ton charme!”
+“J’ai envie de vous caresser les seins, vous ne pouvez pas vous imaginer.”
+“Pour moi l’idéal, ce serait un labo sans femmes.”
+“Non mais les filles on ne les invite pas. C’est pas intéressant ça.”
+“C’est gentil de proposer ton aide aux autres, mais c’est de moi que tu dépends. Et puis tu es ma chose, et je ne te prête pas!”
+“Tu les choisis sur quels critères tes petites stagiaires, leurs compétences ou leur physique?”
+“Vous correspondez parfaitement au poste, mais nous cherchons un homme...”
+"Tu crois qu’il la saute?”
+“Je te ferai découvrir les joies de la pénétration anale, tu verras avec moi tu aimeras cela.”
+“J’aimerais bien entendre une fois quels genres de cris tu pousses quand tu jouis.”
+“Bon les filles, c’est quand que vous mettez des robes?”
+“Ah, elle s’est fait sa coupe de salope aujourd’hui!”
+“Une fille qui fait de l’informatique, soit c’est pas une fille, soit c’est pas de l’informatique.”
+“Les femmes ne sont faites que pour occuper des postes de secrétaire.”
+“Je t’ai recrutée à cause de ta forte poitrine.”
+“Vous allez en manif ? Pourquoi faire?! Déjà vous êtes ici, et plus aux fourneaux!”
+“Les femmes ont des cervelles de moineaux!”
+“Pourquoi tu ne mets pas de talons? C’est quand même plus féminin.”
+"Tu n’oublieras pas de me payer en nature.”
+“Vous êtes vierge?”
+“Encore une qui ne pense plus qu'à ses gosses!”
+“Les femmes, on devrait les stériliser à l’embauche!”
+“Et bien c’est toi qui prends les notes et fais la synthèse! T’es la seule fille du groupe de travail.”
+“Utilise tes charmes ça boostera tes ventes. Genre plus de maquillage et décolleté, tu vois.”
+“Tu vois pas qu’elle a envie de sucer!”
+“Tu sais que pour une femme, tu l’ouvres un peu trop?”
+“Il ne reste pas de chaises, t’as qu’à t’asseoir sur mes genoux.”
+“Je te présente Planche à pain et Raisins secs.”
+“Une chose est sûre: les femmes sont moins ambitieuses que les hommes.”
+“Ah non, on l’aurait tout de suite remarqué si tu avais des gros seins et les cheveux blonds hein.”
+“Je te fais confiance, tu mets ton petit jean serré et tu lui fais ton grand sourire, ça devrait le convaincre.”
+“Allez voir la secrétaire.”
+“Faut arrêter de dormir toute nue.”
+“Je suis sûr que si je gagnais au loto, vous ne me diriez pas non.” [...] “De toute façon, vous ne serez jamais sexuellement assouvie, c’est marqué sur votre tête.”
+“Je peux pas vous serrer la main, va falloir me faire la bise.”
+“Est-ce que tu portes une barbe? Est-ce que tu es mal coiffée, mal habillée? Réponse: non. Alors comment veux-tu travailler sur les chantiers??”
+“Maintenant, il n’embauchent que des pauvres filles de 25 ans qui n’y comprennent rien.”
+“Je t’aurais pris à quatre pattes par devant, par derrière, et de tous les côtés!”
+“Non mais attends, tu ne peux pas gagner autant qu’un Stéphane.”
+“Ah on ne peut pas virer une femme enceinte? Je m’en fous, je trouverai un moyen.”
+“Tu n’es plus l’assistante dévouée et sympa que j’avais choisie, je vais le dire au patron.”
+“Voilà ce qui se passe quand on donne du pouvoir à une femme: c’est le bordel!”
+“Un camion? Mais vous allez savoir le conduire au moins?”
+“On voulait un mec à ton poste!”
+“Et votre patron, il est gentil avec vous?”
+“Comme souvent avec les femmes, je te trouve plus intelligente quand tu te tais.”
+“Est ce que tu mets des portes-jaretelles?”
+“Tu sais, je te donne un conseil: quand tu fais passer tes entretiens, il faut se souvenir que les moches ne travaillent pas mieux.”
+“T’as rien compris. Jolie comme t’es, t’as qu’à coucher utile, c’est tout.”
+“Elle est moche. Il faut une fille bonne ça, donne plus envie.”
+“Vous pouvez dire ce que vous voulez vous les filles, mais quand vous mettez des décolletés c’est pour nous séduire!”
+“On a qu’à la mettre elle, avec une jupe, ça les fera venir.”
+“T’as sucé qui pour avoir un iMac?”
+“J’ai dit aux autres que tu danserais nue sur la table à ton pot de départ.”
+“Elle est physiquement intelligente.”
+“Sors du bureau, je veux voir ton cul.”
+“Tu demandes beaucoup. Ton mari gagne bien sa vie pourtant?”
+“Tu fais bien le ménage, tu veux pas venir le faire chez moi?”
+“Il en a de la chance votre bébé, j’aimerais bien vous téter six fois par jours.”
+“Tu pourrais quand même coucher utile!”
+“Alors, on parle épilation du maillot?”
+“J’aime beaucoup ton nouveau tailleur. Il me fait bander.”
+“Non, mais je serais pas contre une petite pipe en revanche.”
+“Un cul comme ça, ça devrait être utilisé plus souvent.”
+“Elle est pas mal elle, on aurait dû l’embaucher à ta place.”
+“Non mais vous les femmes, vous êtes censées savoir mieux faire le ménage.”
+“Vous n’êtes pas baisable , habillée comme ça!”
+“Tu vois, c’est à cause de nanas comme toi que l’on devient misogyne.”
+“Vous êtes des femmes, vous devriez voir que les fenêtres sont sales!”
+“C’est quand même plus agréable d’avoir une secrétaire qu’un secrétaire.”
+“Ben ouais mais tu t’es mise en jupe, aussi… C’est un appel, non?”
+“T’es pas assez séduisante pour être journaliste.”
+“Le bilan de ton stage est plutôt bon. Et puis bon, t’es plutôt avenante en plus, ça n’enlève rien...”
+“Viens sur mes genoux ma chérie.”
+“Tu veux pas repasser, qu’on regarde ton cul encore une fois?”
+“Vous avez une jambe cassée? C’est à force de courir les garçons ça...”
+“Si tu veux pas rentrer à l’hôtel avec moi, je me contenterai de t’imaginer nue dans mon lit.”
+“Pss les filles, quelqu’un pour mettre un coup de pshit?”
+“Non mais moi je touche pas à ça.”
+“Il y a encore des choses à faire? Parce que sinon je me ferais bien tripoter par la petite étudiante...”
+“Concernant la fin de ton CDD, tu sais, tu vas te marier, ta vie va changer. Je ne peux rien te promettre.”
+“Tu t’appelles Sarah? C’est un prénom de salope ça, non?”
+“Allez mes petites putes, aujourd’hui on va faire péter le chiffre d’affaires!”
+“Ce qui est sûr, c’est qu’elle est physiquement intelligente.”
+“Faudrait que tu sois plus féminine, que tu mettes des jupes et des décolletés pour que les clients achètent plus.”
+“Ah oui, tiens une femme enceinte sur un photocopieur, j’ai jamais essayé!”
+“Vous ne voulez pas venir dans mon bureau me montrer votre tatouage?”
+“Bon je vous laisse seuls. Tu peux lui faire ce que tu veux, mais évite de nous la mettre enceinte, on en a encore besoin!”
+“Pourquoi tu viens en pull et survêtement? À ton entretien tu étais en petit short! On est des hommes, on veut voir des décolletés!”
+“C’est autre chose qu’une perche, que tu devrais prendre entre tes jambes.”
+“C’est dommage, si j'étais arrivé cinq minutes plus tôt, je t’aurais trouvée à moitié à poil.”
+“Il faudra que tu penses à te faire ligaturer les trompes.”
+“Tiens un cornichon, vu que t’as pas de copain, si tu veux je peux aussi mettre mon doigt pour plus de sensations.”
+“Comme elle est petite, elle prend pas de place sous le bureau du patron.”
+“Tu peux t’asseoir sur ma bite si tu veux ma puce.”
+“Est-ce que tu suces?”
+“Bah alors, toi tu lui as montré tes seins!”
+“Ici, on n’embauche que des femmes. Elles ont moins tendance à vouloir progresser et prendre le pouvoir.”
+“J’ai embauché une nouvelle, une bonnasse comme j’en voyais dans les bars à putes en Espagne!”
+“Mmmh... ne marchez pas devant moi comme ça, je vais vous claquer les fesses.”
+“Ce serait bien que tu mettes des talons et une jupe. D’ailleurs tu viendras servir le café aux clients en réunion.”
+“Dommage que tu doives rester travailler tard, tu ne vas pas pouvoir aller te faire troncher par ton pote.”
+“Bon, vous avez une voix sensuelle, mais est-ce que vous êtes belle?”
+“Fais attention à ne pas te baisser dans le parking pour ramasser tes clefs.”
+“Caresse toi en face, comme ça il pourra pas refuser! Sers toi de tes arguments!”
+“Ne l’embauche pas! Elle est trop moche.”
+“Je suis sûre qu’elle a baisé!”
+“Ah mais vous êtes compétente vous?”
+“Mais mademoiselle, c’est plus court qu’il faut s’habiller en vitrine!”
+“C’est ici que j’aimerais te prendre.”
+“Tu vois, toi t’es habillée trop court, moi je suis habillé trop long.”
+“C’est en vous habillant comme ça que vous espérez trouver du travail?”
+“Je ne voudrais pas vous vexer, mais vous n’êtes qu’une simple secrétaire.”
+“Fais attention! Tu prends du cul là.”
+“Tu sais que t’es hyper recherchée sur les sites porno?! Bah oui, beurette, c’est hyper recherché!”
+“Elle a été recrutée pour son entrejambe.”
+“Moi j’accepterais le salaire que je te propose si j’étais toi, parce que dans ton état, personne ne te proposera mieux.”
+“T’es une fille, c’est vraiment pas beau dans ta bouche ces vulgarités.”
+“Je n’aime pas la nouvelle cheffe. Parce que les femmes cheffes, on sait ce que ça donne...”
+“Bougez vous la chatte!”
+“Tu fais du très bon travail, mais tu as rompu le lien de confiance. On ne t’a pas engagée pour tomber enceinte…”
+“Bon les nanas, vous parlerez couleur et décoration après la réunion. Maintenant, vous m’écoutez.”
+“Ne t’inquiète pas, je ne vais pas te violer. Et même si je le faisais, tu aimerais car elles m’en redemandent à chaque fois.”
+“Enfin une deuxième femme dans l’usine, on n’aura plus besoin de faire le ménage et la vaisselle.”
+“Viens, on va baiser dans la chambre froide.”
+“Tu t’affirmes un peu trop, on dirait que tu veux être plus qu’une simple stagiaire. Mais bon, c’est sûrement pour compenser le fait que tu sois une femme.”
+“Tu n’as pas l’air épanouie sexuellement, en ce moment. Il parait que je fais des super cunnis. Ça tombe bien, tu as mis une robe ce matin.”
+“Vous allaitez? J’aimerais bien être à la place de votre nourrisson.”
+“Tiens! Il y a une quiche qui veut te parler.”
+“T’as qu’à venir t’asseoir sur mes genoux, promis je ne mords pas. Enfin, sauf si t’aimes ça.”
+“Parce que vous croyez vraiment qu’on va vous prendre au sérieux dans le monde du travail avec une telle couleur de cheveux et sans maquillage?”
+“Ton ascension des divers échelons est peu claire, j’aime bien laisser croire que tu es devenue directrice en couchant.”
+“Elle a une bouche à pipe cette stagiaire.”
+“Je sais que c’est illégal de demander, mais vous ne comptez pas tomber enceinte dans les deux prochaines années?”
+“Pour faire carrière il faudrait que tu portes des jupes plus courtes.”
+“On a mis le mini frigo et le micro-onde à côté de ton bureau pour que tu te sentes pas dépaysée. La cuisine, ça vous connaît ça à vous les femmes.”
+“C’est bon, tu t’es mise en jupe, on va forcément gagner ce contrat.”
+“Tu n’es pas seulement jolie, tu as aussi un cerveau.”
+“Et qu’est-ce qu’il fait votre papa dans la vie?”
+“Il faudra penser un faire un test de paternité pour savoir qui est le père.”
+“Me toucher les seins, c’est une agression sexuelle.”- “Je t’encule maintenant devant tout le monde, tu vas voir ce que c’est qu’une agression sexuelle!”
+“Tu vas me faire le plaisir de me laisser lui passer dessus avant toi.”
+“Et toi, tu préfères l’éjaculation faciale ou anale?”
+“Oh mais qu’est-ce que tu lui as fait pendant toutes ces heures dans ton bureau?”
+“Je compte sur vous pour bien vous tenir, et ne pas aller faire la danse du ventre, si on vous y invite.”
+“Je n’ai pas le droit de vous poser la question... Mais je vais le faire quand même: vous voulez un autre enfant?”
+“Nous regretterons votre silhouette dans les couloirs. Heureusement, d’autres belles silhouettes sont arrivées pour prendre la relève!”
+“Les grosses artères, c’est comme les grosses infirmières... J’aime pas!”
+“Je pourrais parler à un de vos collègues?” - “Si vous attendez deux secondes, je m’occupe de vous.” - “Non je veux parler à un homme.”
+“Alors petite mademoiselle, dans 5 ans vous vous voyez plutôt mère de famille, ou en poste à responsabilités?”
+“Tu peux nous présenter ton parcours?” Plus discrètement, un des chefs autour de la table ajoute: “Et vos mensurations?”
+“Non mais ce n’est plus une question de compétences, là. Il y a trop de femmes dans cette administration, je vais rééquilibrer. Mes prochains recrutements seront des hommes. Ce n’est pas sexiste, c’est du management.”
+“On vous propose un CDI si vous renoncez à votre congé maternité.”
+“Tu es tombée enceinte pendant ta période d’essai, tu imagines bien que si on l’avait su on ne t’aurais pas gardée!”
+“Eh, tu dois avoir des sextoys chez toi, c’est sûr. On peut aller voir?”
+“Et puis vous me rangerez ce bureau ma petite, c’est vraiment le bordel!”
+“Elle est où maman et sa laiterie?”
+“Je préfère conduire bourré que laisser Lucie nous ramener!”
+“On s’associe avec toi en te faisant confiance, hein, tu nous chies pas un mioche dans les 3 ans.”
+“Je rêve de te prendre là, par derrière, et te faire crier! Salope.”
+“Qu’est-ce que tu serais prête à faire pour que je te signe tes permissions?” (en me montrant le dessous de son bureau)
+“Celle-là, elle avait vraiment les yeux qui sentaient la bite.”
+“Attends je te rappelle, je suis avec l’infirmière.”
+“Ne faites pas votre bourgeoise!” (Une fessée a suivi)
+“Tu t’es mise en robe? On voit que tu déjeunes avec le DG ce midi!”
+“Je pourrais te dévierger ici, et personne n’en saurait rien.”
+“Mais dis donc, t’aurais pas grossi du cul toi?”
+“On ne va pas vous prendre, ce travail est loin d’être idéal quand on veut fonder une famille.”
+“Chouette, il y a une nouvelle petite salope dans l’équipe!”
+“Vous avez le profil parfait pour le poste mais, on ne va pas vous engager. Vous n’allez pas être capable de laisser votre fille quand il faudra partir à l’étranger. Elle a besoin de vous.”
+“Je réaliserais bien mon fantasme incestueux avec toi.”
+“Je vais te mettre un petit revers dans le cul.”
+“La secrétaire du DG est enceinte? Est-ce que je dois féliciter le DG aussi?”
+“Je préfère que tu mouilles ta culotte pour une autre raison.”
+“En même temps elle l’a cherché. Elle lui parle et porte des jupes tous les jours.”
+“Les filles ne devraient pas avoir le droit de boire.”
+“Si on bossait pas ensemble je te baiserais bien.”
+“Eh ben, pour une femme, et blonde en plus, t’es pas si bête!”
+“Tu veux sucer?”
+“J’espère que vous avez mis les ovaires dans le bocal!”
+“Si on manque de médecins, c’est parce qu’on laisse faire médecine aux femmes, hein! Vu qu’elles sont toujours à mi-temps, enfin quand elles sont pas en congés pour chier un môme.”
+“Ah, ils ont embauché une jolie fille pour améliorer le chiffre d’affaires.”
+“Vous avez des enfants? Qui est-ce qui les gardera s’ils sont malades? C’est vous, pas votre mari.”
+“Je vois sur votre CV que vous avez été au Japon... votre rouge à lèvres, c’est en rapport avec les geisha?”
+“Ha ha ha, la journée de la femme! J’ai essayé de marcher avec des talons, c’est vrai que c’est pas facile!”
+“Tu la vires ou je la viole.”
+“Il nous faut un mec, car on ne peut pas avoir de basse-cour sans coq.”
+“Mais non t’as pas besoin de la passer ta visite médicale. Je vais te la faire dans une salle, je suis spécialisé en gynécologie en plus!”
+“Je vais vous prendre vous, avec beaucoup de chantilly.”
+“Avec ce que gagne ton mari, tu n’as pas besoin de travailler.”
+“Comme la vendeuse!”
+“Plutôt string ou culotte?”
+“Tu veux travailler? Tiens, essaye de soulever ça.” (en désignant un échafaudage déjà monté extrèmement lourd).
+“Ça ne vous posera pas de problème d’être la seule femme de l’équipe? Entre "couilles", on fait beaucoup de blagues vaseuses. La précédente l’a mal pris.”
+“Elle est laide la nouvelle freelance! Il faut arrêter d’embaucher des grosses!”
+“Je veux recruter une commerciale. Même si elle est nulle, elle pourra toujours écarter les jambes pour signer le contrat.”
+“Vos parents voulaient un garçon, ils ont eu une fille. Et du coup vous compensez comme ça?”
+“Évidemment que ton physique a pesé dans la balance pour qu’on t’embauche!”
+“Quand une collègue arrive dans mon agence, je lui pose un stérilet.”
+“Tu as les capacités pour une promotion, mais avec tes contraintes de mère de famille ça ne sera pas possible.”
+“Non mais une femme qui travaille dans l’industrie, ça devrait pas avoir le droit de faire des enfants.”
+“Je vais te coincer dans un coin sombre jusqu’à ce que tu me sortes le document…”
+“D’un point de vue professionnel, nous sommes entièrement satisfaits. Mais vous n’aurez pas d’augmentation cette année parce que vous n’êtes pas assez souriante face à vos collègues.”
+“Et vous, vous avez été debourrée à quel âge?”
+“Ah tu mets des chaussures rouges! Ça veut dire que tu dois être frustrée sexuellement!”
+“C’est pas grave si vous n’y arrivez pas. Vous partez avec un handicap, vous êtes une femme.”
+“C’est ta remplaçante qui fera les courses pour l’atelier, il faut avoir un vagin pour faire les courses.”
+“Écoute cocotte, t’es née du mauvais côté de la barrière, alors maintenant il va falloir t’habituer! [aux remarques sexistes]”
+“Tu étais bien plus bonne sur ton CV. Il y a tromperie sur la marchandise!”
+“Les filles, on a décroché une interview de l’autre beau-gosse. Toi je sens que t’as envie d’y aller. T’as sans doute déjà la culotte mouillée.”
+“Ne t’inquiète pas, elle est moins jolie que toi.”
+“Le problème avec les femmes, c’est qu’elles ne sont bonnes à rien une semaine par mois.”
+“Et à part être une femme, vous avez quoi d’autre comme défaut?”
+“J’ai beaucoup aimé travailler avec toi. D’abord parce que tu comprends vite, et puis parce que tu es belle. Ça aide.”
+“De toute façon, le femmes n’ont plus d’ambition professionnelle quand elles deviennent maman. C’est normal, leur enfant passe avant tout. Pour les hommes ce n’est pas pareil, nous on ne l’a pas porté pendant 9 mois.”
+“Et beh, vu comment t’es habillée ce matin, ton copain il t’as pas violée avant que tu viennes au boulot?”
+“Tu sais ce produit, c’est comme une femme : il faut mettre le doigt dedans pour savoir si c’est bon.”
+“On se fait conduire par une femme, tu te rends compte? On ne va jamais arriver vivants à Cannes!”
+“Tu devrais mettre des pantalons plutôt, ça éviterait ce genre de situation.”
+“Je te préviens, la boite ne te paiera pas la manucure si tu te casses un ongle.”
+“C’est parce que t’es une fille.”
+“Méfie toi d’elle, c’est une bonne à rien. Elle sait juste se mettre du vernis.”
+“Bah alors, où tu vas comme ça, faire la lessive?”
+“Tu es cadre? Tu as du être très gentille avec ton chef.”
+“Ah, regarde-là la salope, là!”
+“Il y a bien une raison si les toilettes handicapés sont aussi celles des filles, non?”
+“Elle, je la prends par derrière.”
+“De là où je suis, j’ai une super vue sur toi. Tu es carrossée comme un avion de chasse, t’as de la chance qu’il y ait du monde.”
+“Tu as des seins qui poussent dans le dos. (parlant de mes omoplates) Remarque, vu que tu n’as rien devant ça compense.”
+“Tu sais pourquoi je ne l’augmente pas? Parce-que c’est une mère célibataire, et je sais qu’elle a besoin de ce job pour élever son gamin.”
+“Heureusement qu’il y avait un homme pour vous cadrer.”
+“Dis donc c’est réunion Tupperware aujourd’hui!”
+“Vous mériteriez une fessée. Remarquez, je pense que vous ne seriez pas contre.”
+“J’ai prévu de te licencier à ton retour de congé maternité. Tu comprends bien que je ne peux pas garder à ce poste une femme avec un enfant.”
+“Ouh la la, vous êtes jeune et en plus vous êtes une femme. Vous pensez vraiment pouvoir gérer une classe de garçons?”
+“Je vous avoue, d’habitude je ne prends pas de femmes.”
+“On peut coucher ensemble, pour s’amuser! Moi je m’amuse beaucoup dans cette boîte… Avec les femmes ici ça marche bien. Les relations avec ma femme sont pas top alors… faut bien s’amuser pas vrai? On sera discrets.”
+“Ah j’ai appris que tu divorces. T’es célibataire alors! C’est une bonne nouvelle pour les mecs de la boîte. Y en a plein qui sont intéressés. Pas vrai les gars?”
+“Oui enfin, il y a des situations qu’il ne faut pas provoquer...”
+“Elle a eu 2,5% d'augmentation... Bah normal, promotion canapé quoi!”
+“Tu n’as pas posé ta journée? Ben oui, c’est les soldes!”
+“On va vous donner une tenue de travail. Malheureusement, on ne peut pas faire bosser les hôtesses seins nus!”
+“Demain on te mettra en maillot de bain dans la vitrine, il y aura plus de clients.”
+“T’es notre caution féminine. Demain tu mets une jupe. Je compte sur toi, c’est important.”
+“Mais pour une jeune demoiselle comme toi, ça va être difficile de gérer une formation avec autant d’hommes pour un métier d’homme.”
+“Pourquoi tu souris pas? T’as tes règles ou quoi? Ah non, je sais, ton mec te satisfait pas!”
+“Non pas vous! Je veux voir un homme! Parler d’argent ce n’est pas un truc de femme!”
+“Il est très joli ce tableau de nus. Vous ne voudriez pas les imiter maintenant? Vous attireriez plus de monde. Et puis, je pourrais me montrer plus intéressé pour vous l'acheter...”
+“Avec une jupe comme ça, il ne faut pas s’étonner qu’il y ait du viol dans nos campagnes.”
+“Vous avez le profil parfait, mais vous êtes maman? (Oui.) Alors ça ne va pas le faire.”
+“Toi je suis sûr que tu aimes qu’on te plaque contre un mur.”
+“La prochaine fois c’est la fessée. C’est moi qui choisis les punitions.”
+“Il y en a encore une qui tombe enceinte, je vous distribue la pillule à toutes!”
+“Pourquoi je ne demande qu’aux filles du service de faire le café et les photocopies? Mais c’est parce que vous êtes les meilleures pour réaliser les tâches subalternes!”
+“Elle aime ça être à quatre pattes, ma mignonne?”
+“À compétences égales, je prends un homme.”
+“Continue de marcher devant nous, comme ça on peut mater tes fesses.”
+“Je comprends pas pourquoi tu te prends la tête à venir en formation. Mets un legging, penche toi un peu avec ton boule, tu vas les vendre comme des petits pains tes maisons.”
+“Attention, si c’est pas fait je serai obligé de te violer.”
+“Tu emmènes le pain et tes belles miches aux client.”
+“Vous m’autorisez à fantasmer sur vous?”
+“Il faut qu’elle soit jeune, blonde et avec des gros seins.”
+“La nouvelle, je lui mettrais bien une cartouche.”
+“Non mais ça c’est un boulot d’homme, laisse-moi faire.”
+“Moi j’aime bien travailler avec des femmes, parce-que vous n’avez pas d’ambition.”
+“Mon petit, puisque vous n’avez rien de mieux à faire, apportez moi un café.”
+“Mets une mini jupe et va comme ça dans la vitrine, allongée sur l’étagère!”
+“Profitez bien, mais surtout vous n’avez pas intérêt à revenir enceinte.”
+“T’as pris du cul, avant t’avais un bon petit cul. Faut se remettre au sport un peu, ça ne va plus!"
+“Ah il y a des femmes qui aiment bien avoir les jambes en l’air.”
+“Elle est d’origine guinéenne, et dans cette culture, le viol, c’est très grave!”
+“Bah, allez, tu le sais que ton decolleté est sexy...”
+“Votre prof de français, elle couche avec l’inspecteur d’académie.”
+“Je suis déconcentré, je m’imagine être ton stylo et aller droit dans ta bouche.”
+“C’est toi la nouvelle? On va bientôt coucher ensemble alors!”
+“Chère collègue, réfléchissant au meilleur fonctionnement du service l’an prochain, il nous a semblé plus simple, pour l’équipe, que vous n’entamiez pas votre mission à la rentrée comme prévu pour la quitter ensuite avant de revenir. Une même organisation pourra ainsi être mise en place pour toute l’année. Vous remerciant encore de nous avoir prévenus en temps et en heure de votre prochain congé maternité.”
+“Ton cul!”
+“Tais toi et souris.”
+“Le seul pouvoir des femmes c'est leur chatte.”
+“Allez, viens faire la pompinette.”
+“Ce soir, plan à trois avec ma femme. On parlera de ton planning après.”
+“Alors elle est où ma turlute?!”
+“À moins d’être très procédurière, pour moi en tant que pigiste, tu étais juste absente et non en congé maternité.”
+“Viens un jour sans culotte, tu verras ce que c’est violer.”
+“Je me suis toujours demandé... Au boulot tu mets plutôt des dessous sexy ou des dessous normaux?”
+“De toute façon les femmes nous volent notre boulot! Elles ne sont bonnes qu’à rester à la cuisine!”
+“Vous les femmes, vous êtes parfaites avec vos petites mains et vos petits doigts pour taper tout ce qu’on vous dicte.”
+“De toute façon tu pars avec un handicap dans la vie.” (De quoi tu parles?) “Oh bah t’es une femme.”
+“De toute façon j’embauche pas des filles en apprentissage. Je garde mes apprentis après, et une fille va vouloir faire un gamin, je veux pas payer un congé maternité.”
+“Ho ça va hein, c’est pas grave! Si?”
+“Je n’aime pas les femmes qui ont du caractère. Je préfère les détruire mentalement pour qu’elles se sentent comme une merde.”
+“Nous avons une jolie poupée avec nous. Messieurs, j’espère qu’elle est à votre goût.”
+“Ah, tu veux me tenter, chienne!”
+“Ça fait quoi d’être la salope de l’agence?”
+“Sois gentille avec lui et laisse le faire. En plus profite, t’es grosse alors personne ne veut de toi en général.”
+“J’ai vu une évolution positive dans ton parcours, j’apprécie que tu oses mettre des jupes et du vernis maintenant.”
+“Oui mais elles étaient toutes moches.”
+“Il faudrait réinstaurer le droit de cuissage hein?”
+“Elle est superbe ta robe, ça te dit pas de te lever que je puisse admirer?”
+“Très jolie robe aujourd’hui! N’hésite pas à repasser devant mon bureau!”
+“Tu peux décroiser tes bras? Ça cache ta poitrine et… du coup je ne vois pas!”
+“Ah les bonnes femmes, ça réclame toujours de l’argent!”
+“Vous avez 30 ans et vous n’avez pas d’enfant? Pourquoi? Vous avez des projets familiaux? Parce que nous on a besoin de quelqu’un qui s’investisse à 100%, pas quelqu’un qui fasse des mômes.”
+“Tu as sucé combien bites à midi?”
+“Le prochain que j’embauche sera un homme ou une vieille ménopausée!”
+“Bien arrivée rayon lingerie!”
+“Tu vas négocier ton budget annuel? Montre ton décolleté alors!”
+“Tu viens d’échapper à une tournante express.”
+“J’évite de te croiser dans les couloirs sinon j’ai des envies de viol.”
+“Toi, il te faut un homme de plus de 30 ans pour te mater.”
+“Bon, j’ai toujours eu super envie de toi, tu le sais.”
+“Comment tu la veux ma nouvelle collaboratrice? Avec plus de seins, plus de fesses?”
+“J’ai le monopole sur vos ovaires!”
+“Je vais fermer la porte parce qu’on peut pas se concentrer avec ces jambes là...”
+“Vous avez 5 minutes pour que je vous viole vite fait?”
+“C’est si désagréable que ça?”
+“Tu n’as qu’à sortir le soir et soulever ta jupe.”
+“Vous êtes plus belles quand vous souriez.”
+“Tu as mis un t-shirt avec du texte pour qu’on regarde tes seins?”
+“C’est ton anniversaire? Je vais mettre un ruban bolduc autour de ma bite et ça te fera un beau cadeau.”
+“Elle est pas encore dressée la nouvelle?”
+“C’est une question de droit de cuissage, c’est comme ça.”
+“Non mais elle l’a cherché aussi, elle n’était pas réglo.”
+“Mais dis donc, t’es super sexy.”
+“Et tu baises encore, même enceinte? Non parce-que franchement, moi ça me dérangerait d’avoir l’impression de faire un shampoing au môme.“
+“Non je peux pas t’aider à faire le ménage, je préfère te regarder. C’est très agréable à regarder.”
+“Tu sais ma p’tite chérie, je ne suis pas dans ton sac à main pour comprendre ce que tu as dans la tête.”
+“J’ai regardé les Jeux Olympiques hier soir. Et vous savez ce que j’ai vu? De la boxe... féminine! On voyait des femmes se battre au ralenti. Bouah! [frissons] C’était horrible!”
+“T’es mignonne toi, je te sauterais bien!”
+“Je savais que c’était toi, je t’ai reconnue à l’odeur de ta petite culotte.”
+“La seule chose que j’ai réussi à négocier, c’est une petite pipe de ta part.”
+“Là ça va vraiment plus être possible, si ça continue je vais te violer dans la cuisine quand il y aura personne.”
+“Bon les stagiaires, on monte sur la table et on écarte les cuisses.”
+“Si je faisais ça, je serais obligé de toutes vous augmenter. Et puis les clients préfèrent être accompagnés par de belles femmes, j’en sais quelque chose.”
+“Une petite fellation me remettrait d’aplomb.”
+“Allez on va tous t’attraper. Mais je vous préviens les mecs, je gicle en premier, je suis quand même votre directeur.”
+“T’as une poitrine de fou, c’est de l’incitation au viol ça.”
+“Toi, si tu fais pas gaffe je vais te violer dans un des rayons.”
+“Si t’avais dormi chez moi, je t’aurais sauté dessus, que tu le veuilles ou non.”
+“Ça c’est le balai à chiottes, et maintenant tu vas nettoyer derrière moi à chaque fois que je chie.” Il me l’a lancé dans la tronche, devant un autre collègue qui a trouvé ça aussi très drôle.
+“Et toi, tu préfères te faire violer ou tabasser?”
+“Tu ne portes pas de soutient gorge? Allumez le chauffage, je crois qu’elle a un peu froid la p’tite. Parfois j’aimerais bien être une petite mouche pour me glisser la dessous...”
+“Tout cul tendu mérite son dû.”
+“Je sais ce que je vais prendre: vous! C’est gratuit en plus.”
+“Avoue, tu rêves de moi toutes les nuits! On ne se connait que depuis un mois et demi, tu es impressionnée par mes 10 ans d’expérience. C’est normal, je suis solaire. D’ailleurs on peut fusionner si tu veux.”
+“Avant que tu arrives on pensait que tu couchais avec le patron. Maintenant, on sait qu’en fait tu es compétente. Drôle, non?”
+"De toute façon quand ton mari rentrera à Paris, tu vas arrêter de travailler hein. Ah mais je dis ça, c’est pour ton bien.”
+“Tu veux une augmentation pour quoi? Pour aller faire les soldes?”
+“Ça te ferait du bien de baiser un peu. Mais tu dois pas trop plaire aux mecs avec tes cheveux courts, hein?”
+“Si j’avais ça au bureau, moi aussi j’aurais le sourire au boulot!”
+“C’est tout?! J’ai pas le droit à un petit câlin?”
+“C’est aujourd’hui ton évaluation de stage? J‘espère que tu as mis ta plus belle culotte!”
+“Il me semble que vous êtes assez compétentes et diplômées pour répondre à ce genre de gestes déplacés sans en faire une affaire d’État.”
+“Au moins il est soulagé, il n’aura pas besoin de feuilleter un porno ce soir.”
+“Bah laisse tomber alors, t’en connais toi des meufs connues dans le domaine, et qui n’ont pas couché?”
+“Pourquoi il a commandé une gourde? Il y en a plein les étages.”
+“Je comprends pas pourquoi tu es choquée par le poster d’une fille à moitié nue sur mon bureau, t’es jalouse ou quoi?”
+“Ah tiens, justement je cherche une maîtresse, tu fais quoi au cours des prochains mois?”
+“La direction a décidé de ne pas t’embaucher à la fin de ton contrat. C’est en rapport avec ton congé maladie lié à une grossesse.”
+“Si la crise arrive, on vous mettra à tour de rôle au bord de la RN7, pour ramener des clients.”
+“Hé les gars, il y a madame Pipi!” ... “Ah c’est toi qui nettoies les bureaux du directeur, j’espère que tu t’y prends bien!”
+“Ah bon vous êtes féministe? Je vais faire attention à ce que je dis alors!”
+“Si tu te trompes, attention c’est la fessée.”
+“Allez les filles, demain audit, on sort le décolleté.”
+“C’est une mal baisée!“
+“Olalala t’as vu comme elle était gaulée sous son hijab celle-là? Une vraie pute! Je lui tirerais bien les cheveux en arrière à cette pouf.”
+“Je vais me la faire la gonzesse, c’est moi qui t’le dis.”
+“Si je peux me me permettre, mets du rouge à lèvres, on vend un produit de luxe! Il faut que tu donnes envie au client!”
+“Ah tu es végétarienne? C’est dommage, tu ne goûteras jamais la grosse saucisse.”
+“Envie de toi.”
+“Il faudra voir à vous habiller plus sexy si vous voulez garder un poste comme celui-là...”
+“Il est tard, je lui ai dit de rentrer chez elle. Je dirais bien qu’elle doit s’occuper de son fils et son mari, mais vous allez penser que je suis sexiste.”
+“Je n’avais jamais remarqué tes seins. Tu devrais porter des débardeurs moulants plus souvent.”
+“C’est embêtant qu’il n’y ait plus de femme de ménage pour ranger mon bureau! Chez moi c’est toujours ma femme qui range et nettoie.”
+“Ton poste n’est pas compatible avec une vie de famille, il faudra faire un choix.”
+“Désolé pour le retard, mais c’est une femme qui nous a conduits.”
+“Ah non! Toi tu ne toucheras pas à mes maquettes! Ce ne sont pas des colliers de perles!”
+“On ne te garde pas dans notre entreprise, mais je ne m’inquiète pas pour toi, tu es jolie tu trouveras facilement.”
+“Et sinon, vous êtes à jour au niveau du harcèlement sexuel au travail? Non parce que ici, on est pas aux États-Unis, une petite drague dans l’ascenseur c’est pas le procès direct.”
+“Ici on sait s’occuper des femmes.”
+“Comment ça? T’es une femme et tu ne sais pas te servir d’un aspirateur? Ah ben celle-là, on ne me l’a jamais faite!”
+“Les filles, c’est jupe obligatoire si vous voulez valider votre stage!”
+“Elle est où l’autre pute?”
+“Je suis allé voir le médecin parce que j’ai une trop grosse bite. T’en veux un coup pour voir?”
+“Salut ma chérie, alors tu m’embrasses pas? Je te mets la main sur la hanche, ça te dérange pas?" (en s’éxecutant)
+“Et bien voilà, ça va aller plus vite avec un joli sourire!”
+“Vous avez quel âge? 24 ans? Vous allez vous marier c’est ça? Et du coup après, faire des enfants! Bon, ça ne va pas le faire. Nous on veut quelqu’un qui s’engage vraiment, et pour au moins 5 ans.”
+“Quand je vous vois monter l’escalier, je me dis que je vous mettrais bien une petite fessée.”
+“Rentre pas dans la cuverie, ça va faire tourner le vin.”
+“Tu conduis bien pour une fille.”
+“Ne me suivez pas de trop près, j”ai le poil qui se dresse...et pas que le poil, si vous voyez ce que je veux dire!”
+“Elle est bien elle, je crois qu’on a tiré le bon lot. Enfin, tout ça c’est valable jusqu’à ce qu’elle nous ponde un gosse quoi. Après faudra plus compter sur elle.”
+“Bah alors, tu fais quoi cet après-midi, tu vas au salon de la pute?”
+“Bah alors chaudasse, ça va pas t’es malade? Dis donc, je serais pas contre une partie de jambes en l’air. Moi ça me ferait du bien, et toi c’est bon pour ce que t’as.”
+“Bon écoute, je suis désolé ça ne va pas être possible de te garder… Mais si tu veux, tu peux m’appeler ce soir, et on s’arrange.” *clin d’œil pervers*
+“Elle a le permis l’autre?”
+“Ha non, on recrute que des meufs ici, et des bonnasses. Ça fait vendre!”
+“T’es sûre que tu veux continuer dans la bande dessinée? Tu devrais plutôt rester travailler ici, et te trouver un homme. Il te payera ta maison et toi tu pourras faire tes petits dessins de bonhommes le week-end, en hobby quoi.”
+“ Je demande à toutes mes employées femmes de venir en talons et jupe. Le maquillage doit être impeccable, yeux, fond de teint et rouge à lèvres obligatoires. Même si elles ne sont pas en contact avec les clients ou si elles restent 8h debout sans pouvoir s’asseoir. Parce qu’une femme sans talons ça n’a aucune classe.”
+“Je vais lui foutre une paire de claques à cette poissonnière.”
+“C’est l’hôtesse ou la boisson qu’on peut prendre?”
+“Quand tu es assise comme ça, je comprends mieux pourquoi tes élèves ne se concentrent pas.”
+“Ah ouais tu crois qu’elle bosse elle? Elle aura jamais le concours, je suis sûr qu’elle passe le week-end à baiser avec son copain.”
+“Il est impossible pour nous de donner suite à votre contrat, car nous avons jugé qu’il serait difficile pour nous d’imposer une jeune fille auprès de notre population masculine, et de justifier cette présence à nos clients.”
+“Celle-là, vu son CV, avec 3 gamins, son mec doit être un esclave.”
+“Bah vous ne restez pas avec moi dans la cabine? Je pensais que c’était ça votre boulot.”
+“De toute façon, la plus belle vue, c’est vous mesdames.”
+“Ha voilà, c’est beau une femme qui fait la vaisselle.”
+“Tu vois, ça c’est le meilleur moment de l’opération. Je suis entre deux femmes, et dès que je bouge je leur touche les seins.”
+“Désolé, t’es vraiment trop charmante, je n’arrive pas à écouter ce que tu dis.”
+"Oh allez ! T’es pas marrante, c’est juste pour rigoler!"
+"Vous êtes sûre que c’est légal d’avoir des formes comme ça?"
+“Ne vous penchez pas comme ça voyons, vous allez m’exciter.”
+“Il est normal que la plupart des infirmières soient des femmes, car cela leur permet de mettre à profit leur instinct maternel inné.”
+“Tu penses comme ça, peut-être parce que c’est taboo dans ta culture, ici c'est normal.”
+“Non, je vais pas goûter les pâtisseries, mais je goûterais bien les filles.”
+“Viens en maillot de bain demain, tu verras un peu l’affluence.”
+“C’est ça d’être la seule foufoune dans un univers de mecs!”
+“T’as une petite mine. Vous baisez souvent avec ton copain? Sinon tu me dis, je te dépanne.”
+“Pas la peine de s’inventer des maladies, tu ne peux être qu’enceinte. T’es pas une femme pour rien.”
+“Je vais te virer, comme ça je pourrai te baiser et je te réembauche après.”
+“Vous êtes forte en informatique! C’est votre mari qui vous a appris?”
+“On devrait vous mettre en photo en string sur la couverture de notre plaquette, pour attirer les clients.”
+“J’adore quand les femmes rougissent, j’ai l'impression de les pénétrer.”
+“Elle, elle n’a pas l’air mal. Avec sa chatte toute noire, elle va nous occuper pendant les pauses.”
+“Tu mets des portes jaretelles sous ton bleu de travail?”
+“Sois plus appétissante pour les clients.”
+“Tu me fais penser à une actrice porno avec tes couettes.”
+“Mais que faites-vous pour être autant fatiguée? Vous utilisez votre corps la nuit, c’est ça?”
+"Non mais tu peux nous le dire que tu l’as sucé, c’est bon."
+“Tu fais des trucs crades avec ton mec? Tu le suces?”
+“Laissez-vous faire! C’est le plus gros client de l’agence, il faut éviter de le contrarier...”
+“Et ça ne les dérange pas vos gars, d’être dirigés par une femme?”
+“Non, pas elle, t’as vu sa tronche? Oh bordel, elle par contre, regarde comme elle est bonne. Oui mais trop, justement. C’est risqué. Pas envie de mélanger sexe et travail.”
+“Si j’avais su que vous aviez des lunettes de vue et des cheveux frisés je ne vous aurais pas embauchée.”
+"Tu seras gentille de mettre des jupes plus courtes."
+“Passez moi un technicien homme. Vous, vous ne savez rien de la mécanique du vélo!”
+“Vous devriez faire plus de sport pour perdre du poids, vous seriez beaucoup plus jolie et plus agréable à regarder.”
+“Tu vas te faire greffer un cerveau?”
+"J’aimerais bien te voir à poil."
+“Venez vous assoir à côté de moi, maintenant que vous êtes divorcée!”
+“Alors, vous êtes prête à tapiner?”
+“Ça peut m’intéresser. Enfin ça dépend... C’est vous qui venez faire le ménage chez moi?”
+“Oh bah c’est sûr qu’elle met des choses plus grosses dans sa bouche elle!”
+“Et ben dis-donc, il a l’air content le client! On se demande si tu y es allée pour bosser!”
+“Elle a un string, elle n’a pas de démarcation. Levez-vous pour voir?”
+“Tu viens? On va s’occuper d’elle dans les toilettes!”
+“Et sinon, tu suces?”
+“Ahhh t’aimes ça, être à genoux, hein!”
+“Quand on met un haut comme ça, c’est que l’on a dû encore faire plein de bêtises ce week-end.”
+"Je pensais que la ménopause te rendrait moins hystérique."
+“Quand j’ai vu sa tête sur le CV, j’ai pensé qu’elle allait me sucer dans les chiottes entre deux réunions.”
+"Ton regard m’arrache la bite."
+“Viens, je vais te violer dans une cabine.”
+“J’ai pas le droit de toucher, je suis patron. Sinon je n’hésiterais pas, j’ai trop envie.”
+“Ah, on sait comment vous décrochez vos projets vous. Vous venez avec vos filles.“
+“Tu vois, c’est elle qui va te garder, et elle va dormir dans le lit de papa, avec papa!”
+“C’est une belle plante, envoie-la à la réunion à ma place, elle fera pot de fleur.”
+"Il faudrait songer à passer moins de temps sous la table."
+"Haha! C’est toi qui vas me soigner? Tu veux pas plutôt me faire un massage?"
+“Ah bah on couche ensemble! Enfin j’aimerais bien!” *Rire gras*
+"Si tu fais ça, je te saute dessus et tu repars d’ici enceinte."
+“Tu as déjà mangé une sucette à la viande?”
+"Oh ça va un toucher vaginal pour vous (les femmes), c’est un peu un kiffe non?"
+"Si j’étais étudiant et vous hétérosexuelle, j’aurais passé mes études à vous draguer."
+“Il n’y a plus de chaises?! Tu peux venir sur mes genoux!”
+“Sinon on peut s’arranger avec un petit dédommagement en nature.”
+“Tu sais c’est rare, mais pour une grosse tu es super bonne... Non je t’assure, je te baiserais bien."
+“En même temps, vu comment tu t’habilles, c’est un appel au viol!”
+"C’est toujours non avec elle, sauf quand il s’agit d’écarter les cuisses pour faire des mômes..."
+"C’est toujours une bonne journée quand elle commence derrière toi."
+“Au lieu de nous emmerder avec la sécurité, tu serais pas mieux à faire la vaisselle?”
+“Non, vraiment, il ne faut pas embaucher des femmes: des congés maternité, les enfants malades, partir tôt le soir, et pour peu qu’elles prennent un temps partiels, autant dire qu’elles ne sont jamais là.”
+“La parité au CA? Non mais vous voulez vraiment couler la boîte?”
+“Vu comment tu desherbes, tu dois bien aimer la levrette.”
+"De toute façon, une femme avec 4 enfants, elle ne peut pas être chef de projet, son instinct maternel l’en empêche."
+“Si le client est un homme, épinglez-lui vous-même le badge sur la veste. C’est bien plus agréable pour eux quand c’est une jolie fille, ils sont toujours contents.”
+“Dans ce service, on ne prend toujours que des stagiaires filles, et toujours des jolies!”
+“Y’a le patron qui demande si t’es plutôt cuir ou latex?”
+"Ah bon t’as 15 ans? Bah on fait ça discrètement alors?"
+“Pardon je me suis trompé de numéro... Je pensais avoir appelé la zone technique.”
+“Hey la vulve!”
+“Non, mais les femmes qui servent le jambon, c’est toutes des gourdes. Elles font pas ça bien!”
+“Il fait chaud! Tu te mets pas en débardeur? Ah non, après on pourra plus travailler.
+"C’est joli cette nouvelle coiffure, ça donne envie de te maltraiter."
+"Y’a personne au stand? Bah mets l’assistante devant l’entrée, et de dos, ça va attirer du monde."
+“Il vaut mieux en avoir entre les jambes pour manager une équipe.”
+“Demande lui si elle veut une grosse bite.”
+"Si vous vous faites violer, oubliez pas de mettre une capote."
+“T’es sexy. Je suis sur que tu es toute nue sous ta blouse.”
+“Le client vient aujourd’hui, pourquoi tu n’as pas mis de décolleté?”
+“On a une grosse présentation demain, mets une jupe.”
+“Non , mais c’est normal que les mecs fassent moins bien le ménage! Vous les femmes c’est dans vos gènes, on vous a éduquées comme ça.”
+“Oui mais toi, t’es pas une vraie fille!”
+“Vu la longueur de sa jupe, elle doit encore être en période d’essai.”
+"Viens par ici, je préfère les vierges de toute façon."
+“T’inquiète, je vais pas te violer, et de toutes façons si je te viole tu aimeras ça.”
+“T’as de la chance d’être bien foutue.”
+“Si tu veux une augmentation, il faut mettre un décolleté.”
+“Moi, à mon âge, j’ai pas besoin des petites pilules bleues, tu veux que je te montre?”
+“Hé, fais gaffe, te baisse pas comme ça. À ma mère, comme ça, on lui en a fait trois.”
+"C’est moi qui aurais du te mettre enceinte!"
+“Ah non, je ne peux pas rester ici, il n’y a encore que des femmes!”
+“Hum tes lèvres sont roses. Je parie que celles du bas le sont tout autant.”
+“Je lui mettrais bien un coup de bite moi!”
+“Mais... vous n’êtes pas parfaitement épilée?!”
+“Je te regarde... je t’imagine à poil.”
+“J’aimerais bien savoir si tu prends des photos de toi sous la douche.”
+“Pour ton augmentation, j’ai bien réfléchi, et malgré l’atteinte de tes objectifs, ça va pas être possible. Tu as quand même été absente l’année dernière.”
+“Tu ressembles à un bonbon avec ta robe rose, ça donne envie de te violer.”
+"Mais tu n’aimes pas te faire dominer par un homme un peu? Même pas au lit?"
+“16 sur 20, peut mieux faire.”
+"Alors, toi aussi tu attends d’être en CDI pour nous annoncer que tu attends un enfant?"
+“De toute façon, si elle a été embauchée, c’est parce qu’elle est mignonne.”
+"J’aimerais tellement te prendre en levrette et tirer violemment sur ta longue queue de cheval."
+“Alors, tu l’as bien pé-pom le client?”
+“La prochaine fois, si tu veux être crédible, mets une jupe plus longue. Déjà que t’as des gros seins…”
+“Elle a besoin d’un bon coup de bite celle-là.”
+“J’aime bien les beautés Dove, mais va falloir que tu te mettes plus de maquillage si tu veux travailler ici.”
+“Eh! Eh! Retourne toi! Nan mais ils étaient en train de mater ton cul depuis 5 minutes, du coup ils voulaient voir ta tête.”
+“J’espère qu’elle sait faire les lattés.”
+“Vous serez mignonne de prendre des notes.”
+“Vous n’avez pas de poche? Mais vous avez bien un trou!”
+"Pipe du matin, repos du vagin. Sodomie du soir, repos de la mâchoire."
+“Et sinon la vaisselle et le ménage, elle fait ça bien?é
+“Avec tes lunettes on dirait une grosse cochonne.”
+“Je vais te prendre dans toutes les positions.”
+"Par contre, il va falloir apprendre à gérer ton decolleté si tu veux que je reste concentré!"
+“Putain, encore une gonzesse qui bosse pas le mercredi!”
+"Heureusement qu’elle a mis une photo de son visage sur son CV, parce que si c’était une photo de son cul, on l’aurait pas prise."
+“Une promotion? Ok, passe sous mon bureau.”
+“C’est vrai que tu es une très belle femme mais ça ne fait pas tout… Et de toutes façons tu es trop sexy, tu vas faire faire des crises cardiaques aux petits vieux.”
+"Ah t’es la nouvelle pom-pom girl pour notre équipe de foot?!"
+“Dis donc, vous êtes bien payée pour jouer à la maman.”
+“On peut bien faire ça pour ton 95-C.”
+“Je vous laisse passer devant moi dans les escaliers, comme ça je peux admirer votre chute de reins.”
+“Demain tu mets une jupe, on doit signer!”
+“Tu n’as qu’à faire semblant de tomber en panne de voiture devant la mairie et demander de l’aide."
+“Mettez les mini-jupes les filles, demain M. GrosClient vient à l’agence!”
+“Et sinon, tu ne mets jamais de talons pour être un peu plus féminine?”
+“Non vraiment, j’ai plus du tout de disponibilités pour recevoir ce jeune, ou alors il faut que vous acceptiez de dîner avec moi ce soir...” *clin d’œil*
+“Juste un... ”
+"C’est marrant, les filles normalement ça fait infirmière, avocat, secrétaire..."
+"C’est normal elle est jolie, et puis elle est beaucoup trop sensible."
+“Attention, vous allez grossir!”
+"Dommage que le droit de cuissage ait été aboli."
+“Ah toi aussi tu veux la sauter cette grosse pute?”
+"Vous savez ce que c’est, le point faible des hommes? C’est se faire dorloter par de jolies jeunes femmes comme vous."
+“Mais vous ne savez pas garder un homme ma parole!”
+“Si j’avais 25 ans de moins, je te violerais.”
+“Hum, dis donc tu as un joli ventre plat, je ne savais pas que tu avais un piercing. Les garçons doivent aimez te faire des bisous. (Je me retourne lui lançant un regard noir) Dis donc tu as une bonne tête à claque, tu dois aimer les fessées!”
+“Je t’avais dit que je ne reçois que les femmes jolies aux gros seins! Les hommes, les grosses et les moches tu les mets chez mon collègue.”
+“Qu’est-ce qu’elle a, elle s’est fait cogner?”
+“On aime beaucoup votre profil, mais vous avez 32 ans, et vous vous mariez dans 6 mois. On sait bien qu’on ne devrait pas vous poser la question, mais est-ce que vous comptez tomber enceinte tout de suite?”
+“Ça se passe comment, tu vas nous faire un enfant tout de suite, maintenant que tu es mariée?”
+"Vous gardez aussi les grands garçons?"
+"Mmmmh, toi dans cette robe c’est vraiment un cadeau!"
+“Tu n’as pas mis tes talons aujourd’hui? Comment veux-tu que je sois de bonne humeur?”
+"Tu veux pas plutôt venir me faire un massage dans ma tente?"
+“Tu peux m’amener du jus d’orange? Non? Mais elle est nulle cette secrétaire!”
+“C’est bien, il manquait vraiment une femme pour faire le ménage dans le magasin!”
+“Oui, ben elle est en vie et elle en aura d’autres, hein! Comme quoi, les viols sont pas si terribles, quand on voit ce qui passe par le trou!”
+“L’inspectrice vous recommande, à condition que vous ne tombiez pas enceintes dans l’année.”
+“Bonne nouvelle côté recrutement: nous sommes parvenus à avoir 29 femmes dans l’entreprise. C’est avant tout une bonne nouvelle pour les célibataires parmi nous!”
+“J’ai voulu te faire plaisir, je t’ai choisi deux jolies jeunes filles!”
+“Non mais les femmes, c’est pas fait pour être manager, c’est trop sentimental.”
+"Tiens, nouvelle secrétaire ?" "Non, nouvelle chargée de com', je peux vous aider ?"
+“Il y a quelque chose qui a coulé sur ton disque dur? Ça doit être du mascara ou du blush.”
+"C’est bon, tu as un peu de temps devant toi? Tu ne dois pas aller faire du shopping?"
+“Que des candidates pour le stage, mais aucune blonde à forte poitrine, dommage...”
+“Vous vous arrêtez quand votre conjoint aura fini ses études. En plus, si vous voulez le garder, faites-lui un môme.”
+“Elle se régale la petite, avec sa saucisse.. Ah tiens elle rougit un peu, comme quoi.”
+“Je viens à ta réunion, mais à condition que tu mettes ta petite robe.”
+“Vous avez fini? Tant mieux, vous allez pouvoir retourner vous acheter du maquillage et de la coloration pour les cheveux maintenant, hein?”
+"Je viendrai chez toi réparer tes canalisations, et toi tu me prépareras des pâtisseries orientales."
+“Hey mademoiselle, je suis sûr que pour vous satisfaire au lit il faudrait que je prenne au moins 2 viagra!”
+“Encore une qui est tombée enceinte après sa titularisation.”
+“Pause clope? Nan je me ferais bien une pause pipe plutôt.”
+“Avec qui elle a couché?”
+“On dirait une secrétaire, fais-moi un café!”
+“Bon les filles, les résultats sont catastrophiques: va falloir améliorer tout ça, je vais vous coller à la culotte!”
+"T’as pas fait un bon chiffre? Ben t’as qu’à montrer tes seins!”
+"Tu vois, pas besoin de participer à ‘l’amour est dans le pré’, ici les femmes viennent toutes seules à la ferme!"
+“Tu veux un câlin?”
+“Quand je te vois de bon matin j’ai la trique.”
+"C’est un fanstasme de se faire violer, pour une femme."
+"Tiens, les femmes ne sont pas secrétaires normalement?"
+“Ah c’est vous qui faites la sécurité? Normalement c’est plutôt des grands monsieurs.”
+“Je ne m’entends pas avec elle, elle ne travaille que sur les gros dossiers. Elle a couché avec le chef pour ça, c’est forcé.”
+"Je vous ai vue vous, j’ai vu la deuxième infirmière, mais c’est quand que je vois le médecin? — Mais vous venez de la voir monsieur, c’est la femme qui vient de sortir de votre box. — Ah OK! Le médecin c’est une femme chez vous!"
+"Mais en fait, vous les infirmières, vous servez pas à grand chose, vous êtes un peu les secrétaires du médecin."
+"Si elle avait mis une photo sur son CV, je ne l’aurais pas embauchée."
+“Ah la plus belle! Ah non, deux bises, j’en profite! Tiens, elle rougit pas!”
+“Et elle en pense quoi, miss marketing?”
+“Si c’est bon à la cantine? Ça dépend de la bonne femme qui fait la bouffe — Mais, c’est pas un homme, le chef de la cantine? — Ah... Oui.”
+“Toute façon les femmes c’est bon que pour éplucher des patates. C’est pas fait pour travailler une femme. D’ailleurs, faire de la boxe c’est pas un truc pour toi. Ça va abîmer ton visage et le rendre laid. Si tu veux tu peux rester chez toi et boxer les patates.”
+“Tu es féministe? Lol, t’es une gouine.”
+"Vous n’avez pas à avoir peur de moi…"
+"Tiens, c’est une fille qui fait le technicien!"
+“Non rien, c’était pour vous voir vous déhancher vers moi. Vous avez mis une belle robe, c’est pour qu’on vous regarde, non?”
+“Tiens, repasse-moi ça! Bah t’es une fille non?!”
+“Bonjour Princesse!”
+"Tu sais ce qui est bien avec toi? C’est de faire l’amour! Nan je rigole c’est ton respect de la hiérarchie."
+"Ha t’as mis du rouge à lèvres... J’aime pas le rouge à lèvres, ça laisse des marques sur le gland!”
+“Cette fille, elle travaille comme un homme!”
+"Tiens tu peux garder ça pour jouer avec tes Barbies."
+"Si je n’avais pas de copine, je ne sais pas ce qui me retiendrait de te faire des choses."
+“T’es une jolie fille, t’as qu’à sourire et tout s’arrange.”
+“Quoi? Tu comptes l’allaiter? Mais c’est dégueulasse, et ton homme il va plus te désirer, tu verras.”
+“Je recrute difficilement des femmes, mais elle a bien voulu aller dans le bureau avec moi!”
+“Vous pouvez appeler cette infirmière? Je dois lui parler.”
+“Tu as fait effet dans ta petite robe auprès de tous les hommes du service! Ça change de l'uniforme d’interne.”
+"On vous a déjà dit mademoiselle, que porter des hauts à rayures ça vous grossit?"
+“Et ne t’avise pas à tomber enceinte maintenant!”
+"Tu es vierge?"
+“Tu as une écriture de cochon! On t’a déjà dit que tu étais une cochonne?”
+“Arrête de mettre des jeans comme ça, j’vais finir par te violer.”
+“Si tu continues de t’habiller comme ça je vais te violer!”
+“Je suis sûr que tu te rases intégralement la fouf.”
+“Vous préférez conclure une vente, ou conclure avec moi mademoiselle?”
+“Ramasse ou je te viole. [...] Bah voilà, t’es beaucoup mieux à quatre pattes! Là au moins tu sers à quelque chose!”
+“Tu sais que si je te viole maintenant, personne ne le saura?”
+“Ça risque de ne pas vous plaire, je cherche une assistante personnelle habillée en petit lapin.”
+"Hm, tu sais, moi j’aimerais bien en faire, des va-et-vient... Et ce sera pas pour rien..."
+"T’es venue en chemise de nuit? Faut pas que tu t’habilles comme ça autour de moi, je vais pas réussir à me retenir et ça va mal finir pour toi..."
+“Ce sont tes stagiaires?”
+“Ah oui, c’est vous avec le petit jean bien moulant qui cherchiez une blouse tout à l’heure?”
+“Oh t’as tes règles ou quoi? Pourtant j’ai pas senti d’odeur chelou...”
+“Si tu m’avais dit que tu avais un petit copain par exemple, j’aurais jamais essayé.”
+“Non mais vous, je suis sûr que vous avez déjà léché des minous, pas vrai? Hein? HEIN?!”
